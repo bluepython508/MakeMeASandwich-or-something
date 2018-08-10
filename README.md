@@ -9,7 +9,7 @@ Usage: `sudo make me (a|an|some) {food}`
 
 `make recipes` shows the available recipes.
 
-Example: If you have ascii art of a sandwich in your working diectory as sandwich_recipe_1
+Example: If you have ascii art of a sandwich in your working directory as sandwich_recipe_1
 `sudo make me a sandwich` will create a file called sandwich with your ascii art sandwich.
 You must have write permissions to your working directory.
 
